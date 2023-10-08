@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-Have you heard of Project Euler?
+## Have you heard of Project Euler?
+
+It's a fun place where you can solve some mathematical/programming riddles, see other's people solutions in each thread and see your progress. 
+
 <img src="https://projecteuler.net/profile/ilovewine.png" alt="Project Euler statistics" />
+
+
 
 <!--
 **ilovewine/ilovewine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
