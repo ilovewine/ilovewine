@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Have you heard of Project Euler?
+<img src="https://projecteuler.net/profile/ilovewine.png" alt="Project Euler statistics" />
+
 <!--
 **ilovewine/ilovewine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
