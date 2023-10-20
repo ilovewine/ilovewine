@@ -16,6 +16,8 @@ It's a fun place where you can solve some mathematical/programming riddles, see 
 
 ## Find me on Chess.com!
 
+My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
+
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
