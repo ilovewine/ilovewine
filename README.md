@@ -16,5 +16,6 @@ It's a fun place where you can solve some mathematical/programming riddles, see 
 
 ## Find me on Chess.com!
 
+<!--START_SECTION:chessStats-->
 
-
+<!--END_SECTION:chessStats-->
