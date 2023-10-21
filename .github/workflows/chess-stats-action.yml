@@ -16,3 +16,4 @@ jobs:
       - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: ilovewine1
+          GAMES_SIZE: 20
