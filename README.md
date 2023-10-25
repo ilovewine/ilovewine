@@ -29,6 +29,7 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ilovewine1** | b0guette | resigned ❌ | 24/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p2pp1/3b3p/pp1P3R/1PQ5/B1N2nq1/P1bPBN2/R4K2 w - - 4 22">Link</a> | Daily |
 | lucifer2929 | **ilovewine1** | checkmated ❌ | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2kr1/pp3Q1p/2p1p3/q1PpN3/3Pp3/4P3/PP1N1PPP/R3K2R b KQ - 4 14">Link</a> | Daily |
 | fatofito | **ilovewine1** | agreed ⏸️ | 20/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/4nkp1/p2b1pn1/4p1qQ/1P6/P2r2B1/1P3PPP/5RK1 w - - 21 35">Link</a> | Daily |
 | chessart77 | **ilovewine1** | win 🥇 | 20/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/3p1ppp/7n/1pp1nN2/4P3/3q4/PP1PQPPP/R1B1K2R w KQkq - 4 15">Link</a> | Daily |
