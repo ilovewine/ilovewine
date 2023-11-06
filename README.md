@@ -29,6 +29,7 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ilovewine1** | alexandreboulos | resigned ❌ | 5/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/1p6/3K4/8/8/p7/8 w - - 0 56">Link</a> | Daily |
 | Mheryemm | **ilovewine1** | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Daily |
 | Tsapone | **ilovewine1** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4">Link</a> | Daily |
 | **ilovewine1** | JoseManuelPlaza1967 | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/3B3P/P7/8/2KBk1Q1/8 b - - 8 65">Link</a> | Daily |
