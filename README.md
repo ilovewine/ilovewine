@@ -29,6 +29,7 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| FireView18 | **ilovewine1** | timeout ❌ | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/5p1p/3p2q1/R3p2p/1pP1Pb1P/1P1P1bP1/QN3P1K/6R1 b - - 6 24">Link</a> | Daily |
 | **ilovewine1** | w8kPT | win 🥇 | 21/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/ppQ2ppp/4p3/3p3b/4n3/4P1PP/PPPP1P2/R1B1KBNR b KQkq - 0 10">Link</a> | Daily |
 | FroGGer4X4 | **ilovewine1** | timeout ❌ | 11/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp1pp2/2np3p/5bp1/3P4/2N2NP1/PPP1PPBP/R1BQ1RK1 b kq - 1 6">Link</a> | Daily |
 | cariba1994 | **ilovewine1** | win 🥇 | 9/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/1p1p1p2/p1p2p1p/n3p3/P1B1P3/3P1N2/1PP2PPP/R1BQK2R w KQkq - 0 9">Link</a> | Daily |
@@ -48,6 +49,5 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 | NikiMrr | **ilovewine1** | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1k3/3p4/8/8/P2bP3/3P4/6PP/4q2K w - - 0 40">Link</a> | Daily |
 | **ilovewine1** | n1dash | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/1p2b3/2p1p1p1/B1k1p2p/PQ2n2P/8/1PP2PP1/2KR3R b - - 3 25">Link</a> | Daily |
 | **ilovewine1** | MalleusErika | win 🥇 | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/ppN2p1p/4pn1b/3p1b2/3P1P2/3BPN1P/PqPB4/R2QK2R b KQkq - 0 12">Link</a> | Daily |
-| **ilovewine1** | Amoney0525 | win 🥇 | 15/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/5ppp/1pnp1n2/p1pNp3/2B1P3/P2P1Q1P/1PP2PP1/R1B1K1NR b KQkq - 1 9">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
