@@ -17,3 +17,5 @@ jobs:
         with:
           CHESS_USERNAME: ilovewine1
           GAMES_SIZE: 20
+          COMMIT_EMAIL: mateusz.piatkowski666@gmail.com
+          COMMIT_USERNAME: ilovewine
