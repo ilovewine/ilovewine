@@ -29,6 +29,7 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| centrumek | **ilovewine1** | win 🥇 | 14/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/3r3p/p1p3p1/1p3nP1/1Pq2P2/P1N2KQ1/1BP4P/R3R3 w - - 8 26">Link</a> | Daily |
 | alexandreboulos | **ilovewine1** | checkmated ❌ | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/5kR1/R6P/8/3p3K/8/8/3r4 b - - 3 62">Link</a> | Daily |
 | **ilovewine1** | centrumek | win 🥇 | 10/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p4ppp/3p1n2/1PnP4/1PQp4/P7/5PPP/R1B1KBNR b KQkq b3 0 12">Link</a> | Daily |
 | FireView18 | **ilovewine1** | timeout ❌ | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/5p1p/3p2q1/R3p2p/1pP1Pb1P/1P1P1bP1/QN3P1K/6R1 b - - 6 24">Link</a> | Daily |
@@ -39,15 +40,5 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 | **ilovewine1** | Varicon7000 | checkmated ❌ | 6/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/2p2k2/3p1pp1/3P4/8/7r/r4K2 w - - 8 47">Link</a> | Daily |
 | **ilovewine1** | alexandreboulos | resigned ❌ | 5/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/1p6/3K4/8/8/p7/8 w - - 0 56">Link</a> | Daily |
 | Mheryemm | **ilovewine1** | win 🥇 | 1/11/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2">Link</a> | Daily |
-| Tsapone | **ilovewine1** | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4">Link</a> | Daily |
-| **ilovewine1** | JoseManuelPlaza1967 | win 🥇 | 31/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7p/3B3P/P7/8/2KBk1Q1/8 b - - 8 65">Link</a> | Daily |
-| **ilovewine1** | fatofito | resigned ❌ | 30/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppN2ppp/3P4/4p1qb/2B1P3/P2PP1nP/1B1K4/R7 w - - 1 24">Link</a> | Daily |
-| **ilovewine1** | b0guette | resigned ❌ | 24/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p2pp1/3b3p/pp1P3R/1PQ5/B1N2nq1/P1bPBN2/R4K2 w - - 4 22">Link</a> | Daily |
-| lucifer2929 | **ilovewine1** | checkmated ❌ | 21/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2kr1/pp3Q1p/2p1p3/q1PpN3/3Pp3/4P3/PP1N1PPP/R3K2R b KQ - 4 14">Link</a> | Daily |
-| fatofito | **ilovewine1** | agreed ⏸️ | 20/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/4nkp1/p2b1pn1/4p1qQ/1P6/P2r2B1/1P3PPP/5RK1 w - - 21 35">Link</a> | Daily |
-| chessart77 | **ilovewine1** | win 🥇 | 20/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/3p1ppp/7n/1pp1nN2/4P3/3q4/PP1PQPPP/R1B1K2R w KQkq - 4 15">Link</a> | Daily |
-| **ilovewine1** | derinoutofcontext | win 🥇 | 20/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppp1p1p/2n5/4p1B1/2B1N1P1/3P3P/PPP2P2/R2QK1NR b KQkq - 0 8">Link</a> | Daily |
-| upstagepizza | **ilovewine1** | win 🥇 | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4Q/ppppnp1p/4k1p1/8/4P3/NPBn4/PKP4q/R7 w - - 0 22">Link</a> | Daily |
-| NikiMrr | **ilovewine1** | win 🥇 | 16/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1k3/3p4/8/8/P2bP3/3P4/6PP/4q2K w - - 0 40">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
