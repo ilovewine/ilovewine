@@ -29,6 +29,7 @@ My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **ilovewine1** | centrumek | win 🥇 | 23/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/8/2N1P3/PPPP1PPP/R1BQKBNR b KQkq - 1 2">Link</a> | Daily |
 | centrumek | **ilovewine1** | win 🥇 | 14/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/3r3p/p1p3p1/1p3nP1/1Pq2P2/P1N2KQ1/1BP4P/R3R3 w - - 8 26">Link</a> | Daily |
 | alexandreboulos | **ilovewine1** | checkmated ❌ | 13/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/5kR1/R6P/8/3p3K/8/8/3r4 b - - 3 62">Link</a> | Daily |
 | **ilovewine1** | centrumek | win 🥇 | 10/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/p4ppp/3p1n2/1PnP4/1PQp4/P7/5PPP/R1B1KBNR b KQkq b3 0 12">Link</a> | Daily |
