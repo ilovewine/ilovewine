@@ -4,11 +4,6 @@
 
 # Hi there 👋
 
-## Things that I'm currently working on
-
-- [Project Euler Solutions](https://github.com/ilovewine/project-euler-solutions) 🤔
-- [Pomidoro](https://github.com/ilovewine/pomidoro) 🍅
-
 ## Have you heard of Project Euler?
 
 It's a fun place where you can solve some mathematical/programming riddles, see other's people solutions in each thread and see your progress.
