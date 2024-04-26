@@ -2,9 +2,38 @@
 <meta http-equiv='expires' content='0'>
 <meta http-equiv='pragma' content='no-cache'>
 
-# Hi there 👋, I'm Mateusz
+# About Me
 
-I'm a passionate **Front-end Developer** with a zest for exploring unconventional programming languages, including the likes of Prolog. My enthusiasm for coding is matched by my love for mathematics, with a special interest in cryptography. I'm on a journey to broaden my expertise and transition into a **Full-stack Developer** role, embracing both front and back-end technologies to craft complete and dynamic user experiences. Join me on my quest for continuous learning and innovation!
+## Hi 👋 I'm Mateusz
+
+and I'm a passionate Front-end Developer with a strong focus on technology. I specialize in crafting dynamic and user-friendly experiences using cutting-edge front-end frameworks and libraries.
+
+## Skills
+
+- Strong expertise in front-end development, particularly in Vue, SolidJS, and Angular.
+- Proficient in HTML, CSS, and JavaScript.
+- Enthusiastic learner with a passion for exploring unconventional programming languages, such as Prolog.
+
+## Goals
+
+- Transition into a Full-stack Developer role, where I can leverage both front-end and back-end skills to create comprehensive and innovative solutions.
+- Contribute to teams that value creativity, innovation, and a commitment to continuous learning.
+
+## Why Hire Me
+
+- Proven track record of delivering high-quality front-end solutions.
+- Driven by a passion for creating engaging user experiences.
+- Open to learning new technologies and challenges to achieve my goals.
+
+## Hobbies
+
+Besides coding, I enjoy various hobbies. Here are a few of them:
+
+- Baking bread: I love to experiment with different recipes and bake delicious bread for my family and friends.
+- Assembling puzzles: I find peace in solving complex puzzles, from jigsaw puzzles to mechanical puzzles.
+- Reading crime novels: I'm hooked on detective stories and enjoy exploring different genres to escape into a world of mystery. Shoutout to Camilla Läckberg and Harlan Coben!
+- Watching documentaries: I'm fascinated by the human experience, and documentaries provide a unique opportunity to learn and grow.
+- Mountain hiking: I find solace in the great outdoors and enjoy exploring mountain trails to challenge myself physically and mentally.
 
 ### Have you heard of Project Euler?
 
