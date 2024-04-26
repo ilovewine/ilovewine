@@ -1,16 +1,18 @@
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
+<meta http-equiv='cache-control' content='no-cache'>
+<meta http-equiv='expires' content='0'>
 <meta http-equiv='pragma' content='no-cache'>
 
-# Hi there 👋
+# Hi there 👋, I'm Mateusz
 
-## Have you heard of Project Euler?
+I'm a passionate **Front-end Developer** with a zest for exploring unconventional programming languages, including the likes of Prolog. My enthusiasm for coding is matched by my love for mathematics, with a special interest in cryptography. I'm on a journey to broaden my expertise and transition into a **Full-stack Developer** role, embracing both front and back-end technologies to craft complete and dynamic user experiences. Join me on my quest for continuous learning and innovation!
+
+### Have you heard of Project Euler?
 
 It's a fun place where you can solve some mathematical/programming riddles, see other's people solutions in each thread and see your progress.
 
 <img src="https://projecteuler.net/profile/ilovewine.png?" alt="Project Euler statistics" />
 
-## Find me on Chess.com!
+### Find me on Chess.com
 
 My username is [ilovewine1](https://www.chess.com/member/ilovewine1) 😊
 
