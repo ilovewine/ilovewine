@@ -37,8 +37,8 @@ Besides coding, I enjoy various hobbies. Here are a few of them:
 - Watching documentaries: I'm fascinated by the human experience, and documentaries provide a unique opportunity to learn and grow.
 - Mountain hiking: I find solace in the great outdoors and enjoy exploring mountain trails to challenge myself physically and mentally.
 
-### Have you heard of Project Euler?
+### Have you heard of [Project Euler](https://projecteuler.net/about)?
 
 It's a fun place where you can solve some mathematical/programming riddles, see other's people solutions in each thread and see your progress.
 
-<img src="https://projecteuler.net/profile/ilovewine.png?" alt="Project Euler statistics" />
+[<img src="https://projecteuler.net/profile/ilovewine.png?" alt="Project Euler statistics" />](https://projecteuler.net/about)
