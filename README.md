@@ -8,17 +8,18 @@ Soon on <a href="https://ilovewine.github.io/" target="_blank">https://ilovewine
 
 ## Hi 👋 I'm Mateusz
 
-and I'm a passionate Front-end Developer with a strong focus on technology. I specialize in crafting dynamic and user-friendly experiences using cutting-edge front-end frameworks and libraries.
+and I'm a passionate Full-stack Developer with a strong focus on technology. I specialize in crafting dynamic and user-friendly experiences using cutting-edge front-end frameworks and libraries.
 
 ## Skills
 
 - Strong expertise in front-end development, particularly in Vue, SolidJS, and Angular.
 - Proficient in HTML, CSS, and JavaScript.
+- Recently doing stuff with yjs, prosemirror and livekit.
 - Enthusiastic learner with a passion for exploring unconventional programming languages, such as Prolog.
 
 ## Goals
 
-- Transition into a Full-stack Developer role, where I can leverage both front-end and back-end skills to create comprehensive and innovative solutions.
+- Transition completion into a Full-stack Developer role, where I can leverage both front-end and back-end skills to create comprehensive and innovative solutions.
 - Contribute to teams that value creativity, innovation, and a commitment to continuous learning.
 
 ## Why Hire Me
