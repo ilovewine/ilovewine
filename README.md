@@ -12,7 +12,7 @@ and I'm a passionate Full-stack Developer with a strong focus on technology. I s
 
 ## Skills
 
-- Strong expertise in front-end development, particularly in Vue, SolidJS, and Angular.
+- Strong expertise in front-end development, particularly in Vue, SolidJS, and React.
 - Proficient in HTML, CSS, and JavaScript.
 - Recently doing stuff with yjs, prosemirror and livekit.
 - Enthusiastic learner with a passion for exploring unconventional programming languages, such as Prolog.
