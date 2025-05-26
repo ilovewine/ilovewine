@@ -1,0 +1,27 @@
+name: Update Project Euler Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at midnight UTC every day
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with timestamp
+        run: |
+          # Get current timestamp
+          TIMESTAMP=$(date +%s)
+
+          # Update the image URL in README.md
+          sed -i "s|https://projecteuler.net/profile/ilovewine.png?.*|https://projecteuler.net/profile/ilovewine.png?t=$TIMESTAMP|" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "perfect.codeist@gmail.com"
+          git config --local user.name "Mateusz Piątkowski"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Project Euler stats timestamp" && git push)
