@@ -19,7 +19,7 @@ jobs:
           TIMESTAMP=$(date +%s)
 
           # Update the image URL in README.md
-          sed -i -e 's|\(src="https://projecteuler.net/profile/ilovewine.png\?\)[^"]*|\1t='"$TIMESTAMP"'|g' README.md
+          sed -i -e 's|\(src="https://projecteuler.net/profile/ilovewine.png\\?\)[^"]*|\1t='"$TIMESTAMP"'|g' README.md
 
       - name: Commit and push if changed
         run: |
