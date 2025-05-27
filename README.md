@@ -41,4 +41,4 @@ Besides coding, I enjoy various hobbies. Here are a few of them:
 
 It's a fun place where you can solve some mathematical/programming riddles, see other's people solutions in each thread and see your progress.
 
-[<img src="https://projecteuler.net/profile/ilovewine.pngt=1748310652" alt="Project Euler statistics" />](https://projecteuler.net/about)
+[<img src="https://projecteuler.net/profile/ilovewine.png?t=1748310652" alt="Project Euler statistics" />](https://projecteuler.net/about)
